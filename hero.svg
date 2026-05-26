@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='480' height='520' viewBox='0 0 480 520'>
+  <defs>
+    <linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#c9445e;stop-opacity:1' />
+      <stop offset='100%' style='stop-color:#8c1f33;stop-opacity:1' />
+    </linearGradient>
+    <linearGradient id='circle1' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#e8899a;stop-opacity:0.4' />
+      <stop offset='100%' style='stop-color:#c9445e;stop-opacity:0.1' />
+    </linearGradient>
+  </defs>
+  <rect width='480' height='520' fill='url(#bg)'/>
+  <circle cx='350' cy='100' r='180' fill='url(#circle1)'/>
+  <circle cx='100' cy='420' r='120' fill='rgba(255,255,255,0.05)'/>
+  <circle cx='240' cy='260' r='90' fill='rgba(255,255,255,0.06)'/>
+  <text x='240' y='220' text-anchor='middle' font-family='serif' font-size='72' fill='rgba(255,255,255,0.15)' font-style='italic'>She</text>
+  <text x='240' y='300' text-anchor='middle' font-family='serif' font-size='72' fill='rgba(255,255,255,0.15)' font-style='italic'>Can</text>
+  <circle cx='240' cy='180' r='60' fill='rgba(255,255,255,0.12)'/>
+  <text x='240' y='190' text-anchor='middle' font-family='serif' font-size='48' fill='rgba(255,255,255,0.3)'>&#9792;</text>
+  <rect x='60' y='380' width='360' height='2' fill='rgba(255,255,255,0.15)'/>
+  <text x='240' y='420' text-anchor='middle' font-family='sans-serif' font-size='13' fill='rgba(255,255,255,0.5)' letter-spacing='3'>EMPOWERING WOMEN</text>
+</svg>
